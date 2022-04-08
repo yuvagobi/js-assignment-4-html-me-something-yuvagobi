@@ -1,1 +1,29 @@
 /* Write your CSS here! */
+p{
+    display: block;
+    margin: 8px;
+}
+#funParagraph{
+    color: green;
+}
+#mainheading{
+   color: red;
+   margin-left: 30px;
+   padding-top: 50px;
+}
+.ApplePie
+{
+    color: red;
+    margin-left: 30px;
+    padding-left: 50px;
+}
+.Falooda{
+    color: greenyellow;
+    margin-left: 30px;
+    padding-left: 50px;
+    }
+.PepperChicken{
+    color: cyan;
+    margin-left: 30px;
+    padding-left:50px;
+}
